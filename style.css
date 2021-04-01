@@ -1,0 +1,27 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin:0;
+    box-shadow: 5px 5px 5px greenyellow;
+}
+.note{
+    font-size: 17px;
+    color: springgreen;
+}
+#square_side{
+    font-size: 20px;
+}
+#footer{
+    width:100%;
+    margin-bottom: 0;
+    bottom:0;
+    position:fixed;
+    text-align: center;
+    background-color: black;
+    color: white;
+    line-height: 2;
+    font-size: large;
+}
+canvas{
+    border: 5px solid darkgoldenrod;
+}
